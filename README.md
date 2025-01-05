@@ -30,11 +30,14 @@ JavaScript
 To run this application locally:
 
 =>Clone the repository:
+```
     Copy code : git clone https://github.com/theclockedeye/BMI-Calculator.git
+```
     
 =>Navigate to the project directory:
+```
   cd BMI-Calculator\
-  
+```
 Open index.html in your web browser to view the application.
 
 #Usage
